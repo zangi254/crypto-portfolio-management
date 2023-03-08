@@ -2,7 +2,7 @@
 This web tool for synthesizing and visualizing realtime cryptocurrency trends
 
 ## Project structure
-- **Project folder structure**: Reflects the logical components of your project, including the frontend, the backend, the tests, the assets.
+- **Project folder structure**: Reflects the logical components of the project, including the frontend, the backend, the tests, the assets.
 
   ```
   crypto-tracker/
